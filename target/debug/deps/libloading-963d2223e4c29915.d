@@ -1,0 +1,11 @@
+D:\code\preLATT-txt2segy\target\debug\deps\libloading-963d2223e4c29915.d: C:\Users\souls\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\libloading-0.8.9\src\lib.rs C:\Users\souls\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\libloading-0.8.9\src\changelog.rs C:\Users\souls\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\libloading-0.8.9\src\error.rs C:\Users\souls\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\libloading-0.8.9\src\os\mod.rs C:\Users\souls\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\libloading-0.8.9\src\os\windows\mod.rs C:\Users\souls\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\libloading-0.8.9\src\safe.rs C:\Users\souls\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\libloading-0.8.9\src\util.rs
+
+D:\code\preLATT-txt2segy\target\debug\deps\liblibloading-963d2223e4c29915.rmeta: C:\Users\souls\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\libloading-0.8.9\src\lib.rs C:\Users\souls\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\libloading-0.8.9\src\changelog.rs C:\Users\souls\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\libloading-0.8.9\src\error.rs C:\Users\souls\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\libloading-0.8.9\src\os\mod.rs C:\Users\souls\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\libloading-0.8.9\src\os\windows\mod.rs C:\Users\souls\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\libloading-0.8.9\src\safe.rs C:\Users\souls\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\libloading-0.8.9\src\util.rs
+
+C:\Users\souls\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\libloading-0.8.9\src\lib.rs:
+C:\Users\souls\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\libloading-0.8.9\src\changelog.rs:
+C:\Users\souls\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\libloading-0.8.9\src\error.rs:
+C:\Users\souls\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\libloading-0.8.9\src\os\mod.rs:
+C:\Users\souls\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\libloading-0.8.9\src\os\windows\mod.rs:
+C:\Users\souls\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\libloading-0.8.9\src\safe.rs:
+C:\Users\souls\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\libloading-0.8.9\src\util.rs:

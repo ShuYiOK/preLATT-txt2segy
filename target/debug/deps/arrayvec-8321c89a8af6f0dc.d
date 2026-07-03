@@ -1,0 +1,11 @@
+D:\code\preLATT-txt2segy\target\debug\deps\arrayvec-8321c89a8af6f0dc.d: C:\Users\souls\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\arrayvec-0.7.8\src\lib.rs C:\Users\souls\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\arrayvec-0.7.8\src\arrayvec_impl.rs C:\Users\souls\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\arrayvec-0.7.8\src\arrayvec.rs C:\Users\souls\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\arrayvec-0.7.8\src\array_string.rs C:\Users\souls\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\arrayvec-0.7.8\src\char.rs C:\Users\souls\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\arrayvec-0.7.8\src\errors.rs C:\Users\souls\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\arrayvec-0.7.8\src\utils.rs
+
+D:\code\preLATT-txt2segy\target\debug\deps\libarrayvec-8321c89a8af6f0dc.rmeta: C:\Users\souls\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\arrayvec-0.7.8\src\lib.rs C:\Users\souls\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\arrayvec-0.7.8\src\arrayvec_impl.rs C:\Users\souls\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\arrayvec-0.7.8\src\arrayvec.rs C:\Users\souls\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\arrayvec-0.7.8\src\array_string.rs C:\Users\souls\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\arrayvec-0.7.8\src\char.rs C:\Users\souls\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\arrayvec-0.7.8\src\errors.rs C:\Users\souls\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\arrayvec-0.7.8\src\utils.rs
+
+C:\Users\souls\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\arrayvec-0.7.8\src\lib.rs:
+C:\Users\souls\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\arrayvec-0.7.8\src\arrayvec_impl.rs:
+C:\Users\souls\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\arrayvec-0.7.8\src\arrayvec.rs:
+C:\Users\souls\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\arrayvec-0.7.8\src\array_string.rs:
+C:\Users\souls\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\arrayvec-0.7.8\src\char.rs:
+C:\Users\souls\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\arrayvec-0.7.8\src\errors.rs:
+C:\Users\souls\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\arrayvec-0.7.8\src\utils.rs:

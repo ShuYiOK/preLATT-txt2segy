@@ -1,3 +1,5 @@
+#![windows_subsystem = "windows"]
+
 use std::collections::{HashMap, HashSet};
 use std::path::PathBuf;
 use std::sync::atomic::{AtomicBool, Ordering};
@@ -504,7 +506,7 @@ impl eframe::App for SegyGuiApp {
         // 顶部标题
         egui::TopBottomPanel::top("top").show(ctx, |ui| {
             ui.add_space(6.0);
-            ui.heading("微地震 TXT → SEG-Y 转换工具");
+            ui.heading("微地震 TXT → SEG-Y 转换工具--lsby1984");
             ui.add_space(2.0);
         });
 
@@ -968,7 +970,7 @@ fn main() -> eframe::Result {
         viewport: egui::ViewportBuilder::default()
             .with_inner_size([900.0, 600.0])
             .with_min_inner_size([700.0, 400.0])
-            .with_title("微地震 TXT → SEG-Y 转换工具"),
+            .with_title("微地震 TXT → SEG-Y 转换工具--lsby1984"),
         ..Default::default()
     };
     eframe::run_native(

@@ -1,0 +1,11 @@
+D:\code\preLATT-txt2segy\target\debug\deps\windows_result-6db06cb287e24639.d: C:\Users\souls\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\windows-result-0.2.0\src\lib.rs C:\Users\souls\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\windows-result-0.2.0\src\bindings.rs C:\Users\souls\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\windows-result-0.2.0\src\com.rs C:\Users\souls\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\windows-result-0.2.0\src\strings.rs C:\Users\souls\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\windows-result-0.2.0\src\bstr.rs C:\Users\souls\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\windows-result-0.2.0\src\error.rs C:\Users\souls\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\windows-result-0.2.0\src\hresult.rs
+
+D:\code\preLATT-txt2segy\target\debug\deps\libwindows_result-6db06cb287e24639.rmeta: C:\Users\souls\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\windows-result-0.2.0\src\lib.rs C:\Users\souls\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\windows-result-0.2.0\src\bindings.rs C:\Users\souls\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\windows-result-0.2.0\src\com.rs C:\Users\souls\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\windows-result-0.2.0\src\strings.rs C:\Users\souls\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\windows-result-0.2.0\src\bstr.rs C:\Users\souls\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\windows-result-0.2.0\src\error.rs C:\Users\souls\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\windows-result-0.2.0\src\hresult.rs
+
+C:\Users\souls\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\windows-result-0.2.0\src\lib.rs:
+C:\Users\souls\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\windows-result-0.2.0\src\bindings.rs:
+C:\Users\souls\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\windows-result-0.2.0\src\com.rs:
+C:\Users\souls\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\windows-result-0.2.0\src\strings.rs:
+C:\Users\souls\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\windows-result-0.2.0\src\bstr.rs:
+C:\Users\souls\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\windows-result-0.2.0\src\error.rs:
+C:\Users\souls\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\windows-result-0.2.0\src\hresult.rs:

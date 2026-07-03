@@ -2891,7 +2891,7 @@ dependencies = [
 
 [[package]]
 name = "segy-cli"
-version = "0.1.0"
+version = "0.4.0"
 dependencies = [
  "anyhow",
  "chrono",
@@ -2901,7 +2901,7 @@ dependencies = [
 
 [[package]]
 name = "segy-core"
-version = "0.1.0"
+version = "0.4.0"
 dependencies = [
  "anyhow",
  "byteorder",
@@ -2913,7 +2913,7 @@ dependencies = [
 
 [[package]]
 name = "segy-gui"
-version = "0.1.0"
+version = "0.4.0"
 dependencies = [
  "chrono",
  "eframe",
