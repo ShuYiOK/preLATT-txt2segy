@@ -1,0 +1,12 @@
+[package]
+name = "segy-core"
+version.workspace = true
+edition.workspace = true
+
+[dependencies]
+byteorder = "1.5"
+chrono = { version = "0.4", features = ["serde"] }
+rayon = "1.10"
+walkdir = "2.5"
+anyhow = "1.0"
+thiserror = "1.0"

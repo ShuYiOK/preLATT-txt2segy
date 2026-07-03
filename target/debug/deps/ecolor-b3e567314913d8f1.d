@@ -1,0 +1,12 @@
+D:\code\Ru-latt\target\debug\deps\ecolor-b3e567314913d8f1.d: C:\Users\souls\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\ecolor-0.31.1\src\lib.rs C:\Users\souls\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\ecolor-0.31.1\src\color32.rs C:\Users\souls\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\ecolor-0.31.1\src\hsva_gamma.rs C:\Users\souls\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\ecolor-0.31.1\src\hsva.rs C:\Users\souls\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\ecolor-0.31.1\src\rgba.rs C:\Users\souls\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\ecolor-0.31.1\src\hex_color_runtime.rs
+
+D:\code\Ru-latt\target\debug\deps\libecolor-b3e567314913d8f1.rlib: C:\Users\souls\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\ecolor-0.31.1\src\lib.rs C:\Users\souls\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\ecolor-0.31.1\src\color32.rs C:\Users\souls\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\ecolor-0.31.1\src\hsva_gamma.rs C:\Users\souls\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\ecolor-0.31.1\src\hsva.rs C:\Users\souls\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\ecolor-0.31.1\src\rgba.rs C:\Users\souls\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\ecolor-0.31.1\src\hex_color_runtime.rs
+
+D:\code\Ru-latt\target\debug\deps\libecolor-b3e567314913d8f1.rmeta: C:\Users\souls\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\ecolor-0.31.1\src\lib.rs C:\Users\souls\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\ecolor-0.31.1\src\color32.rs C:\Users\souls\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\ecolor-0.31.1\src\hsva_gamma.rs C:\Users\souls\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\ecolor-0.31.1\src\hsva.rs C:\Users\souls\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\ecolor-0.31.1\src\rgba.rs C:\Users\souls\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\ecolor-0.31.1\src\hex_color_runtime.rs
+
+C:\Users\souls\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\ecolor-0.31.1\src\lib.rs:
+C:\Users\souls\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\ecolor-0.31.1\src\color32.rs:
+C:\Users\souls\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\ecolor-0.31.1\src\hsva_gamma.rs:
+C:\Users\souls\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\ecolor-0.31.1\src\hsva.rs:
+C:\Users\souls\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\ecolor-0.31.1\src\rgba.rs:
+C:\Users\souls\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\ecolor-0.31.1\src\hex_color_runtime.rs:
