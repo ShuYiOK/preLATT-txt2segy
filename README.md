@@ -25,4 +25,4 @@
 - 默认 sample rate = 5000 Hz；如果传入 0 或 5000.0 则启用自动检测
 - use_gps_coords ：仅在传入 GPS 文件时为 true
 
-有大佬有更好的同类软件，麻烦介绍给我，不慎感激。  Email：lsby1984@gmail.com
+有大佬有更好的同类软件，麻烦介绍给我，不慎感激。  Email：soul.shu@petalmail.com
